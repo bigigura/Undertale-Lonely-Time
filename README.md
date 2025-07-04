@@ -1,2 +1,3 @@
 # Undertale-Lonely-Time
 制作中...
+<a onclick="parent.location.href='suzume39menu.html'">〜</a>
