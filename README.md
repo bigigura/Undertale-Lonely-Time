@@ -1,3 +1,3 @@
 # Undertale-Lonely-Time
 制作中...
-https://bigigura.github.io/Undertale-Lonely-Time/about/contact-u.html
+https://bigigura.github.io/Undertale-Lonely-Time/about/ver 1.0 beta 8.html
